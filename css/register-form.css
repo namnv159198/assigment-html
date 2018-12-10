@@ -43,9 +43,9 @@ input[type=button]{
     width: 12.5%;
 }
 input[type=submit]{
-    background-color: red;
-    color: white;
-}
+     background-color: red;
+     color: white;
+ }
 input[type=reset]{
     background-color: red;
     color: white;

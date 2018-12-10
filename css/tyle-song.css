@@ -36,6 +36,7 @@
     float: left;
     width: 20%;
     margin-left: 10%;
+    color: white;
 }
 .song-infor .song-name {
     font-weight: bold;
@@ -53,6 +54,7 @@
     text-decoration: underline;
     float: left;
     width: 10%;
+    margin-left: 10%;
 
 }
 

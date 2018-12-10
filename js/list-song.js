@@ -13,7 +13,7 @@ xhr.onreadystatechange = function () {
             var song = arraySongs[i];
             htmlContent += '<div class="song-item">';
             htmlContent += '<div class="song-index">' + (i+1) + '</div>';
-            htmlContent += '<div class="song-thumbnail">';
+              htmlContent += '<div class="song-thumbnail">';
             htmlContent += '<img src="' + song.thumbnail + '">';
             htmlContent += '</div>';
             htmlContent += '<div class="song-infor">';

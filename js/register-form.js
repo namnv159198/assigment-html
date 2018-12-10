@@ -18,7 +18,7 @@ function doRegister() {
    var _date = document.forms['register-form']['Date'].value;
    var _phone = document.forms['register-form']['phone'].value;
    
-   var registerInformation = {
+   var registerInformation = {  
        firstName : _firstName,
        lastName : _lastName,
        password : _password,
