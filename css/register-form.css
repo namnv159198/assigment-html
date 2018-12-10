@@ -1,0 +1,60 @@
+
+
+/*.main-login {*/
+    /*background-color: silver;*/
+/*}*/
+.title{
+    text-align: center;
+    padding: 4%;
+    font-family: Calibri;
+    font-size: 35px;
+    font-weight: bold ;
+}
+.main-register{
+    background-color: silver;
+    text-align: center;
+    padding: 1%;
+}
+
+.title .use{
+    font-size: 25px;
+}
+.register-form{
+    text-align: center;
+}
+input {
+    width: 25%;
+    height: 35px;
+    border-radius: 1px;
+}
+input[type=date]{
+    padding: 10px;
+    width: 15%;
+    margin-right: 10%;
+    height: 10%;
+}
+.gender{
+    margin-right: 16.5%;
+    padding: 1%;
+}
+input[type=button]{
+    background-color: red;
+    color: white;
+    width: 12.5%;
+}
+input[type=submit]{
+    background-color: red;
+    color: white;
+}
+input[type=reset]{
+    background-color: red;
+    color: white;
+    width: 12.5%;
+}
+
+.msg-success{
+    color: green;
+}
+.msg-error{
+    color: red;
+}

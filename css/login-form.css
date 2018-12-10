@@ -1,0 +1,39 @@
+.login{
+    background-color: silver;
+    text-align: center;
+    padding: 1%;
+}
+.login-form{
+    text-align: center;
+}
+.title-login {
+    font-size: 35px;
+}
+
+input{
+    width: 25%;
+    height: 35px;
+    border-radius: 1px;
+}
+input[type=button]{
+    background-color: red;
+    color: white;
+    width: 12.5%;
+}
+input[type=reset]{
+    background-color: red;
+    color: white;
+    width: 12.5%;
+}
+.row .login a {
+    color: blue;
+}
+.row .login a:hover {
+    color: red;
+}
+.msg-success {
+    color: green;
+}
+.msg-error {
+    color: red;
+}
